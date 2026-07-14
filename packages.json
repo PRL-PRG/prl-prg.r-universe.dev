@@ -1,0 +1,14 @@
+[
+  {
+    "package": "imputesrcref",
+    "url": "https://github.com/PRL-PRG/imputesrcref"
+  },
+  {
+    "package": "mutator",
+    "url": "https://github.com/PRL-PRG/mutator"
+  },
+  {
+    "package": "sxpdb",
+    "url": "https://github.com/PRL-PRG/sxpdb"
+  }
+]
