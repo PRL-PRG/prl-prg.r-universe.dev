@@ -12,11 +12,6 @@
     "url": "https://github.com/PRL-PRG/sxpdb"
   },
   {
-    "package": "rcp",
-    "url": "https://github.com/PRL-PRG/rcp",
-    "subdir": "rcp"
-  },
-  {
     "package": "injectr",
     "url": "https://github.com/PRL-PRG/injectr"
   }
