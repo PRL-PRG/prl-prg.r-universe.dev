@@ -14,5 +14,9 @@
   {
     "package": "injectr",
     "url": "https://github.com/PRL-PRG/injectr"
-  }
+  },
+  {
+    "package": "genthat",
+    "url": "https://github.com/PRL-PRG/genthat"
+  },  
 ]
