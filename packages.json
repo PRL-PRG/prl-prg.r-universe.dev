@@ -22,5 +22,9 @@
   {
     "package": "contractr",
     "url": "https://github.com/PRL-PRG/contractr"
+  },
+  {
+    "packages": "runr",
+    "url": "https://github.com/PRL-PRG/runr"
   }
 ]
