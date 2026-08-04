@@ -20,7 +20,15 @@
     "url": "https://github.com/PRL-PRG/genthat"
   },
   {
-    "package" : "crbcc",
-    "url" : "https://github.com/PRL-PRG/crbcc"
+    "package": "contractr",
+    "url": "https://github.com/PRL-PRG/contractr"
+  },
+  {
+    "package": "runr",
+    "url": "https://github.com/PRL-PRG/runr"
+  },
+  {
+    "package": "crbcc",
+    "url": "https://github.com/PRL-PRG/crbcc"
   }
 ]
