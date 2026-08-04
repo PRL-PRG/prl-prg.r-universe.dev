@@ -18,5 +18,9 @@
   {
     "package": "genthat",
     "url": "https://github.com/PRL-PRG/genthat"
+  },
+  {
+    "package" : "crbcc",
+    "url" : "https://github.com/PRL-PRG/crbcc"
   }
 ]
